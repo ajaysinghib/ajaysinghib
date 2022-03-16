@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Singh
 - 👀 I’m interested in stock market and related applicaiton, specially for Algo trading 
-- 🌱 I’m currently learning Algo trading with Python
+- 🌱 I’m currently exploring Algo/desicion nased trading based on technical paramter.
 - 💞️ I’m looking to collaborate on Algo Trading 
 - 📫 How to reach me ...aksingh@dhani.com
 
